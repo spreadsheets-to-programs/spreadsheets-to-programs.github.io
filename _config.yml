@@ -1,0 +1,7 @@
+safe: true
+title: "From Spreadsheets to Programs"
+source: .
+destination: _site
+lsi: false
+url: "https://spreadsheets-to-programs.github.io/"
+:pygments: true
