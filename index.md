@@ -13,8 +13,9 @@ to try out the material!_
 
 ### Program Links
 
-[Getting Started in Pyret](https://code.pyret.org/editor#share=1MoQ8YxevbLP2ohiXD5NiwqsBsdoYIrUw)
-[Animals Dataset](https://code.pyret.org/editor#share=0BzzMl1BJlJDkYkhKMG51VlRiWk0)
+- [Getting Started in Pyret](https://code.pyret.org/editor#share=1MoQ8YxevbLP2ohiXD5NiwqsBsdoYIrUw)
+
+- [Animals Dataset](https://code.pyret.org/editor#share=0BzzMl1BJlJDkYkhKMG51VlRiWk0)
 
 
 ### Resources
