@@ -44,10 +44,9 @@ to formulate and answer questions:
  - [Purebred Pedigree Dataset](https://docs.google.com/spreadsheets/d/1lOyPpnL7JgJEsCLQbUudiZJu8OTkpcn1-CCI9qLd3N8) (and the [Starter file](https://code.pyret.org/editor#share=1K008hd9j_mqzXMd3mBpvMkzD0c5U3LeO) for this dataset)
 
 
-### Credits
+### Credits and Further Reading
 
-The materials for this workshop remix and draw inspiration from several places,
-most prominently:
+The materials for this workshop remix and draw inspiration from several places:
 
 - [Programming and Programming Languages](http://papl.cs.brown.edu/2017)
 - [A Data-Centric Introduction to Programming](http://cs.brown.edu/courses/csci0050/2017/)
