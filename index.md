@@ -13,26 +13,17 @@ to try out the material!_
 
 _Workshop attendees can give feedback here: [https://goo.gl/VmKcve](https://goo.gl/VmKcve)_
 
-### Links
+### Links to Workshop Resources
 
 - The Workbook ([docx](./spreadsheets-to-programs.docx) [pdf](./spreadsheets-to-programs.pdf))
 - [Getting Started in Pyret](https://code.pyret.org/editor#share=1MoQ8YxevbLP2ohiXD5NiwqsBsdoYIrUw)
 - [Animals Dataset](https://code.pyret.org/editor#share=0BzzMl1BJlJDkYkhKMG51VlRiWk0)
-
-
-### Resources
-
-The materials for this workshop draw inspiration from several places, most
-prominently:
-
-- [Programming and Programming Languages](http://papl.cs.brown.edu/2017)
-- [Brown CSCI 0050](http://cs.brown.edu/courses/csci0050/2017/)
-- [Bootstrap: Data Science](http://www.bootstrapworld.org/materials/data-science/)
-- [How to Design Programs](http://htdp.org/)
-
 ### Data sets
 
-For this workshop, choose from one of these starter data sets (all of which are available as part of [Boostrap: Data Science](http://www.bootstrapworld.org/materials/spring2018/courses/data-science/english/units/unit2/index.html#lesson_ChooseYourDataset9650)) to formulate and answer questions:
+Partway through the workshop, choose from one of these starter data sets (all
+of which are available as part of [Boostrap: Data
+Science](http://www.bootstrapworld.org/materials/spring2018/courses/data-science/english/units/unit2/index.html#lesson_ChooseYourDataset9650))
+to formulate and answer questions:
 
  - [Movies Dataset](https://docs.google.com/spreadsheets/d/1SaR2M6Z-s40UuRg3u1aQU-G1GVdcm0RgHpqQ9LNmSQk) (and the [Starter file](https://code.pyret.org/editor#share=1KaHf2DSd5iJ17UsRd61jljsWR_HqRQY2) for this dataset)
  - [School Dataset](https://docs.google.com/spreadsheets/d/1yHPM-poscv6azh59aMwElfUP67P3fMESorVjtMwsFa0) (and the [Starter file](https://code.pyret.org/editor#share=1371QVz9uLJKCiX_Q3bR93ZZ5EKhAxZoR) for this dataset)
@@ -52,3 +43,15 @@ For this workshop, choose from one of these starter data sets (all of which are 
  - [NFL Touchdown Leaders](https://docs.google.com/spreadsheets/d/156Q1HxZ-MJvByEKVoIMPmVELtQwiUb3uJEszmkndrMs) (and the [Starter file](https://code.pyret.org/editor#share=1wb4fwcItuACau5j2g0Op_IWTDx9EN4iZ) for this dataset)
  - [NFL Quarterback Win/Loss Records](https://docs.google.com/spreadsheets/d/1aVQz1PxO7LYM131LpwJUH_5fjjIF9L0JlhDvR75c5HY) (and the [Starter file](https://code.pyret.org/editor#share=1k-VFc99jnKJeX6_C_9Horo1RUq7yz9oM) for this dataset)
  - [Purebred Pedigree Dataset](https://docs.google.com/spreadsheets/d/1lOyPpnL7JgJEsCLQbUudiZJu8OTkpcn1-CCI9qLd3N8) (and the [Starter file](https://code.pyret.org/editor#share=1K008hd9j_mqzXMd3mBpvMkzD0c5U3LeO) for this dataset)
+
+
+### Credits
+
+The materials for this workshop remix and draw inspiration from several places,
+most prominently:
+
+- [Programming and Programming Languages](http://papl.cs.brown.edu/2017)
+- [Brown CSCI 0050](http://cs.brown.edu/courses/csci0050/2017/)
+- [Bootstrap: Data Science](http://www.bootstrapworld.org/materials/data-science/)
+- [How to Design Programs](http://htdp.org/)
+
