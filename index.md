@@ -51,7 +51,7 @@ The materials for this workshop remix and draw inspiration from several places,
 most prominently:
 
 - [Programming and Programming Languages](http://papl.cs.brown.edu/2017)
-- [Brown CSCI 0050](http://cs.brown.edu/courses/csci0050/2017/)
+- [A Data-Centric Introduction to Programming](http://cs.brown.edu/courses/csci0050/2017/)
 - [Bootstrap: Data Science](http://www.bootstrapworld.org/materials/data-science/)
 - [How to Design Programs](http://htdp.org/)
 
