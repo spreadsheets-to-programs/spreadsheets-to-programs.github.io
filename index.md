@@ -18,7 +18,6 @@ _Workshop attendees can give feedback here: [https://goo.gl/VmKcve](https://goo.
 - The Workbook ([docx](./spreadsheets-to-programs.docx)) ([pdf](./spreadsheets-to-programs.pdf))
 - [Getting Started in Pyret](https://code.pyret.org/editor#share=1MoQ8YxevbLP2ohiXD5NiwqsBsdoYIrUw)
 - [Animals Dataset](https://code.pyret.org/editor#share=0BzzMl1BJlJDkYkhKMG51VlRiWk0)
-### Data sets
 
 Partway through the workshop, choose from one of these starter data sets (all
 of which are available as part of [Boostrap: Data
