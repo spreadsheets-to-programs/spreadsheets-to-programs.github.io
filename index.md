@@ -11,6 +11,12 @@ _This material is part of workshop #403 of SIGCSE 2018. It will be kept
 available indefinitely for those at the workshop and for anyone else who'd like
 to try out the material!_
 
+### Program Links
+
+[Getting Started in Pyret](https://code.pyret.org/editor#share=1MoQ8YxevbLP2ohiXD5NiwqsBsdoYIrUw)
+[Animals Dataset](https://code.pyret.org/editor#share=0BzzMl1BJlJDkYkhKMG51VlRiWk0)
+
+
 ### Resources
 
 The materials for this workshop draw inspiration from several places, most
