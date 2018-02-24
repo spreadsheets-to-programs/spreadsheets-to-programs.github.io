@@ -13,8 +13,9 @@ to try out the material!_
 
 _Workshop attendees can give feedback here: [https://goo.gl/VmKcve](https://goo.gl/VmKcve)_
 
-### Program Links
+### Links
 
+- The Workbook ([docx](./spreadsheets-to-programs.docx) [pdf](./spreadsheets-to-programs.pdf))
 - [Getting Started in Pyret](https://code.pyret.org/editor#share=1MoQ8YxevbLP2ohiXD5NiwqsBsdoYIrUw)
 - [Animals Dataset](https://code.pyret.org/editor#share=0BzzMl1BJlJDkYkhKMG51VlRiWk0)
 
