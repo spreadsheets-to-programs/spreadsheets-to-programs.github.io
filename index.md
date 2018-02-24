@@ -18,6 +18,7 @@ _Workshop attendees can give feedback here: [https://goo.gl/VmKcve](https://goo.
 - The Workbook ([docx](./spreadsheets-to-programs.docx)) ([pdf](./spreadsheets-to-programs.pdf))
 - [Getting Started in Pyret](https://code.pyret.org/editor#share=1MoQ8YxevbLP2ohiXD5NiwqsBsdoYIrUw)
 - [Animals Dataset](https://code.pyret.org/editor#share=0BzzMl1BJlJDkYkhKMG51VlRiWk0)
+- [Starter file for working with data definitions](https://code.pyret.org/editor#share=1bDWh4mi5D2XCY6PE5h0qxHTDubxaraES)
 
 Partway through the workshop, choose from one of these starter data sets (all
 of which are available as part of [Boostrap: Data
@@ -42,7 +43,6 @@ to formulate and answer questions:
  - [NFL Touchdown Leaders](https://docs.google.com/spreadsheets/d/156Q1HxZ-MJvByEKVoIMPmVELtQwiUb3uJEszmkndrMs) (and the [Starter file](https://code.pyret.org/editor#share=1wb4fwcItuACau5j2g0Op_IWTDx9EN4iZ) for this dataset)
  - [NFL Quarterback Win/Loss Records](https://docs.google.com/spreadsheets/d/1aVQz1PxO7LYM131LpwJUH_5fjjIF9L0JlhDvR75c5HY) (and the [Starter file](https://code.pyret.org/editor#share=1k-VFc99jnKJeX6_C_9Horo1RUq7yz9oM) for this dataset)
  - [Purebred Pedigree Dataset](https://docs.google.com/spreadsheets/d/1lOyPpnL7JgJEsCLQbUudiZJu8OTkpcn1-CCI9qLd3N8) (and the [Starter file](https://code.pyret.org/editor#share=1K008hd9j_mqzXMd3mBpvMkzD0c5U3LeO) for this dataset)
-
 
 ### Credits and Further Reading
 
