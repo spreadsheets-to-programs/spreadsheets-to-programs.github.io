@@ -42,3 +42,8 @@ For this workshop, choose from one of these starter data sets (all of which are 
  - [MLB Hitting Stats Dataset](https://docs.google.com/spreadsheets/d/157Bi2kniAJybuV1X_9h4Z6DaZSVPK3vPf697feXcyv8) (and the [Starter file](https://code.pyret.org/editor#share=1_d80_yLylUXz32QrEsN9EjtHEHJ8gB34) for this dataset)
  - [NFL Touchdown Leaders](https://docs.google.com/spreadsheets/d/156Q1HxZ-MJvByEKVoIMPmVELtQwiUb3uJEszmkndrMs) (and the [Starter file](https://code.pyret.org/editor#share=1wb4fwcItuACau5j2g0Op_IWTDx9EN4iZ) for this dataset)
  - [NFL Quarterback Win/Loss Records](https://docs.google.com/spreadsheets/d/1aVQz1PxO7LYM131LpwJUH_5fjjIF9L0JlhDvR75c5HY) (and the [Starter file](https://code.pyret.org/editor#share=1k-VFc99jnKJeX6_C_9Horo1RUq7yz9oM) for this dataset)
+
+### Samoyed pedigree information
+```
+import shared-gdrive("Samoyed breeding", "1168Hn8MYsxw_BKZaQ8c-YgFWYLw26xej") as S
+```
