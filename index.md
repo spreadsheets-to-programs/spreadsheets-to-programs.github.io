@@ -45,35 +45,24 @@ to formulate and answer questions:
  - [NFL Quarterback Win/Loss Records](https://docs.google.com/spreadsheets/d/1aVQz1PxO7LYM131LpwJUH_5fjjIF9L0JlhDvR75c5HY) (and the [Starter file](https://code.pyret.org/editor#share=1k-VFc99jnKJeX6_C_9Horo1RUq7yz9oM) for this dataset)
  - [Purebred Pedigree Dataset](https://docs.google.com/spreadsheets/d/1lOyPpnL7JgJEsCLQbUudiZJu8OTkpcn1-CCI9qLd3N8) (and the [Starter file](https://code.pyret.org/editor#share=1K008hd9j_mqzXMd3mBpvMkzD0c5U3LeO) for this dataset)
 
-Grouping tables: either include this line at the top of your file:
+For grouping tables by column, you can include this line at the top of
+your file:
+
 ```
 import shared-gdrive("Table group operations", "1JdrIKGQGaSsWMlTs6HUPUna8Uu-co3EU") as T
 ```
 
-OR just copy and paste the following code:
+which defines:
 
 ```
-fun group(tab, col):
-  values = list-to-list-set(tab.get-column(col)).to-list()
-  for fold(grouped from table: value, subtable end, v from values):
-    grouped.stack(table: value, subtable
-        row: v, tab.filter-by(col, {(val): val == v})
-      end)
-  end
-end
-
-fun count(tab, col):
-  order group(tab, col).build-column("count", {(r): r["subtable"].length()}).drop("subtable"): value ascending end
-end
-
-fun count-many(tab, cols):
-  for fold(grouped from table: col, subtable end, c from cols):
-    grouped.stack(table: col, subtable
-        row: c, count(tab, c)
-      end)
-  end
-end
+T.group :: (t :: Table), (column :: String) -> Table
+T.count :: (t :: Table), (column :: String) -> Table
 ```
+
+You can see the group-by code here:
+
+[https://code.pyret.org/editor#share=1JdrIKGQGaSsWMlTs6HUPUna8Uu-co3EU](https://code.pyret.org/editor#share=1JdrIKGQGaSsWMlTs6HUPUna8Uu-co3EU)
+
 
 ### Credits and Further Reading
 
